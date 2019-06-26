@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Start-Class: com.example.bills.billspayment_demo.BillspaymentDemoAppli
+ cation
+Main-Class: org.springframework.boot.loader.JarLauncher
+
